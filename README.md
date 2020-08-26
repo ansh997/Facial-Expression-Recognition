@@ -13,7 +13,7 @@ This Project is based on kaggle competition on Facial expression recognition. He
 ## Task 4: Created a Convolutional Neural Network (CNN) Model
 * Design a convolutional neural network with 4 convolution layers and 2 fully connected layers to predict 7 types of facial expressions.
 * Use Adam as the optimizer, categorical crossentropy as the loss function, and accuracy as the evaluation metric.
-!model.png
+![model](https://user-images.githubusercontent.com/22083123/91337308-cdd9ed00-e7f0-11ea-8a28-e369d2bfbd37.png)
 ## Task 5: Trained and Evaluated Model
 * Train the CNN by invoking the model.fit() method.
 * Use ModelCheckpoint() to save the weights associated with the higher validation accuracy.
